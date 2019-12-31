@@ -65,7 +65,8 @@ Windows での文字列操作にいつも迷う。
   p = "C:\\Users\\yoshioca\\Documents\\run_ViewCaptureToFile\\out_python.png"
 
   p = r"C:\Users\yoshioca\Documents\run_ViewCaptureToFile\out_python.png"
-```
+  ```
+
 
 - (2) Panel に書き込んで、ghPython コンポーネントに入れる。(type hint : ghdoc Object when geomrtry)  
 
@@ -73,7 +74,8 @@ Windows での文字列操作にいつも迷う。
 
   ```xml
   C:\Users\yoshioca\Documents\run_ViewCaptureToFile\out_panel_ghdoc.png
-```
+  ```
+
 
 - (3) Panel に書き込んで、ghPython コンポーネントに入れる。(type hint : str)  
 
